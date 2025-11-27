@@ -1,4 +1,4 @@
-## README
+## INTRODUCTION
 
 | PRO-THESMOS-HQ |
 |----------------|
